@@ -107,3 +107,8 @@ api.getFact().then((res) => console.log(res));
 |     getWave   | Get a random anime GIF with a waving gesture.                |
 |     getWink   | Obtain a random anime GIF featuring a winking expression.    |
 |      getYes   | Get a random anime GIF expressing a positive affirmation.    |
+
+
+#Credits
+
+(Waifu.it wrapper)[https://github.com/kyrea/waifu.it]
