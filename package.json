@@ -1,0 +1,30 @@
+{
+  "name": "waifu-up",
+  "version": "3.0.0",
+  "description": "Fork of Official wrapper for waifu.it!",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node __tests__/endpoints.js"
+  },
+  "baseurl": "https://waifu.it/api/v4",
+  "repository": "git+ssh://git@github.com/NavIshanOp/waifu-up.git",
+  "keywords": [
+    "anime",
+    "generator",
+    "facts",
+    "waifu",
+    "discord",
+    "bot"
+  ],
+  "author": "NavIshanOp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NavIshanOp/waifu-up/issues"
+  },
+  "homepage": "https://github.com/NavIshanOp/waifu-up#readme",
+  "dependencies": {
+    "eventemitter3": "^4.0.7",
+    "phin": "^3.7.0"
+  }
+}
