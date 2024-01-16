@@ -1,6 +1,6 @@
 {
   "name": "waifu-up",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Fork of https://github.com/kyrea/waifu.it for waifu.it!",
   "main": "index.js",
   "types": "index.d.ts",
