@@ -111,4 +111,4 @@ api.getFact().then((res) => console.log(res));
 
 ## Credits
 
-### (Waifu.it wrapper)[https://github.com/kyrea/waifu.it]
+### [Waifu.it wrapper](https://github.com/kyrea/waifu.it)
