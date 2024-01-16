@@ -109,6 +109,6 @@ api.getFact().then((res) => console.log(res));
 |      getYes   | Get a random anime GIF expressing a positive affirmation.    |
 
 
-#Credits
+###Credits
 
-(Waifu.it wrapper)[https://github.com/kyrea/waifu.it]
+###(Waifu.it wrapper)[https://github.com/kyrea/waifu.it]
